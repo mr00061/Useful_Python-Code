@@ -15,3 +15,10 @@ Make a python file say attributes.py
 Output
 
 Life is beautiful
+
+
+We can run same script as
+
+
+
+from attributes import atr
